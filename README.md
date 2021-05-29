@@ -1,3 +1,2 @@
-# Diario de Python 3
-Mis proyectos Python y
-Mis practicas de python
+# Journal of Python 3
+My Py Testing apps :) !
